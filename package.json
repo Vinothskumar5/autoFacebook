@@ -1,0 +1,21 @@
+{
+  "name": "autofb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Vinothskumar5@github.com/Vinothskumar5/autoFacebook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vinothskumar5/autoFacebook/issues"
+  },
+  "homepage": "https://github.com/Vinothskumar5/autoFacebook#readme",
+  "description": ""
+}
